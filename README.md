@@ -23,6 +23,6 @@ Contributing to open source projects, clarifying tweaks, and notifying vulnerabi
 
 ## 🎯 Goal
 
-Besides that, I am aiming to work (after thirties) for [![Nasa](.assets/nasa.png)](https://nasa.gov).
+Besides that, I am aiming to work for [![Cern](.assets/cern.png)](https://home.cern).
 
 If you have a question in mind, you can send me an email ✉️.
