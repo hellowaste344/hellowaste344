@@ -23,6 +23,6 @@ Contributing to open source projects, clarifying tweaks, and notifying vulnerabi
 
 ## 🎯 Goal
 
-Besides that, I am aiming to work for <b><img src='.assets/cern.png' height='24' width='24'>Cern.</b>
+Besides that, I am aiming to work for <b>![Cern](assets/cern.png).</b>
 
 <p align="left">If you have a question in mind, you can send me an email ✉️.</p>
