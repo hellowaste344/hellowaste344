@@ -21,9 +21,5 @@ Contributing to open source projects, clarifying tweaks, and notifying vulnerabi
 - **English** —  Fluent
 - **German** — Basic
 ---
-## 🎯 Goal
-<a href="https://nasa.gov">
-<img src="assets/nasa.png" alt="Besides that, I am aiming to work at">
-</a>
 
 <p align="left">If you have a question in mind, you can send me an email ✉️.</p>
